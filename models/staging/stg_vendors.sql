@@ -7,7 +7,7 @@ staged as (
         -- ids
         id as vendor_id,
         contact_info_id,
-        bank_account_id
+        bank_account_id,
 
         -- timestamps
         created_at,
