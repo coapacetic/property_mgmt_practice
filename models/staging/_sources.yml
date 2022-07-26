@@ -6,7 +6,7 @@ sources:
     schema: property_management
     tables:
       - name: bank_accounts
-      - name: contract_infos
+      - name: contact_infos
       - name: emails
       - name: email_delivery_statuses
       - name: leases
